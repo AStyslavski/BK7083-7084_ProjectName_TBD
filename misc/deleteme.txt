@@ -1,0 +1,4 @@
+This file is there for git.
+Git does not recognise any directories (folders) that do not any files.
+
+You can delete it once its parent directory 'misc' contains any other files. 
