@@ -1,0 +1,3 @@
+Usually, when using git, we don't need to store "backups",
+as all previous verions are avaliable (you can very easily "go back in time" with all files)
+This is just in case :P
