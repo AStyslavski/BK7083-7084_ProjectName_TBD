@@ -7,3 +7,5 @@ family_cluster_x,-337
 elderly_min_floor,2
 student_min_floor,2
 family_min_floor,2
+family_and_student_cutoff,-315
+
