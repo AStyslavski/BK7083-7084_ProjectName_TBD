@@ -1,0 +1,11 @@
+elderly_units_needed,200
+family_units_needed,200
+student_units_needed,50
+elderly_cluster_x,-294
+student_cluster_x,-387
+family_cluster_x,-337
+elderly_min_floor,2
+student_min_floor,8
+family_min_floor,2
+family_and_student_cutoff,-315
+
